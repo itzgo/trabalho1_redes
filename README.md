@@ -1,1 +1,1 @@
-# trabalho1_redes
+# Projeto para disciplina de redes.
